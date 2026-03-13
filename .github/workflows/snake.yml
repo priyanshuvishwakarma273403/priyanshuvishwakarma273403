@@ -13,16 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: priyanshuvishwakarma273403
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
 
       - name: Push snake animation
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: dist
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout -b output || git checkout output
+          cp dist/snake.svg snake.svg
+          git add snake.svg
+          git commit -m "update snake animation" || echo "No changes"
+          git push origin output
