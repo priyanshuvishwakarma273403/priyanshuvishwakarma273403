@@ -61,6 +61,12 @@ Built production-style backend APIs with validation, security, database integrat
   <img src="https://streak-stats.demolab.com?user=priyanshuvishwakarma273403&theme=tokyonight" alt="streak" />
 </p>
 
+## 📈 Contribution Graph Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshuvishwakarma273403/priyanshuvishwakarma273403/output/snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
