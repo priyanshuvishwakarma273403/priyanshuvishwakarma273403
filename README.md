@@ -19,11 +19,10 @@
 ## 🚀 About Me
 
 - 💻 Java Backend Developer focused on scalable and real-world applications  
-- ⚙️ Working with Spring Boot, Spring Security, Hibernate, Kafka, Redis, MySQL, MongoDB  
+- ⚙️ Working with Spring Boot, Spring AI, Spring Security, Hibernate, Kafka, Redis, MySQL, MongoDB  
 - 🔴 Interested in real-time systems using WebSocket, event-driven architecture, and caching  
 - 🧠 Currently learning System Design, Microservices, and production-grade backend engineering  
 - 🔐 Strong focus on authentication, REST APIs, performance, and clean architecture  
-
 ---
 
 ## 🧰 Skill Badges Grid
@@ -35,6 +34,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20AI-AI%20Integration-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
