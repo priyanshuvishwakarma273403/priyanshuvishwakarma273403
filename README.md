@@ -28,7 +28,7 @@
 ## 🧰 Skill Badges Grid
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,hibernate,maven,git,github,postman,docker,react,js,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,hibernate,maven,git,github,postman,docker,react,js,html,css,tailwind,bootstrap&perline=9" />
 </p>
 
 <p align="center">
@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-Streaming-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-UI%20Framework-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
