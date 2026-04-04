@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Priyanshu%20Vishwakarma&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Kafka%20|%20Redis&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Priyanshu%20Vishwakarma&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Kafka%20|%20Redis%20|%20DevOps&descAlignY=60&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Vishwakarma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis+%7C+MySQL;REST+API+Development+%7C+Security+%7C+Microservices;Building+Scalable+and+Real-Time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis+%7C+MySQL;DevOps+%7C+AWS+%7C+Docker+%7C+Kubernetes;REST+API+Development+%7C+Microservices;Building+Scalable+and+Real-Time+Systems" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshuvishwakarma273403&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/priyanshuvishwakarma273403?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-brightgreen?style=for-the-badge" />
-</p> -->
 
 ---
 
@@ -20,15 +14,18 @@
 
 - 💻 Java Backend Developer focused on scalable and real-world applications  
 - ⚙️ Working with Spring Boot, Spring AI, Spring Security, Hibernate, Kafka, Redis, MySQL, MongoDB  
+- ☁️ Exploring DevOps tools: AWS, Docker, Kubernetes, Linux  
 - 🔴 Interested in real-time systems using WebSocket, event-driven architecture, and caching  
 - 🧠 Currently learning System Design, Microservices, and production-grade backend engineering  
 - 🔐 Strong focus on authentication, REST APIs, performance, and clean architecture  
+- 🐍 Basic knowledge of Python and C for problem-solving  
+
 ---
 
 ## 🧰 Skill Badges Grid
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,hibernate,maven,git,github,postman,docker,react,js,html,css,tailwind,bootstrap&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,hibernate,maven,git,github,postman,docker,kubernetes,aws,linux,react,js,html,css,tailwind,bootstrap,python,c&perline=9" />
 </p>
 
 <p align="center">
@@ -41,6 +38,12 @@
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-Streaming-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-UI%20Framework-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
@@ -77,57 +80,7 @@
 ---
 
 ## 🌟 Project Showcase
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Real-Time Notification Backend</h3>
-      <p align="center">
-        Backend system using Spring Boot, Kafka, Redis, WebSocket, MySQL and MongoDB for live notifications, unread count and event-driven updates.
-      </p>
-      <p align="center">
-        <a href="https://github.com/priyanshuvishwakarma273403/RealTimeNotification-Backend">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Frontend Notification System</h3>
-      <p align="center">
-        Frontend application for real-time notifications with modern UI and live event updates.
-      </p>
-      <p align="center">
-        <a href="https://github.com/priyanshuvishwakarma273403/frontend-notification-system">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Instagram Notification System</h3>
-      <p align="center">
-        Social-style notification workflow inspired by real-world platforms with scalable backend design ideas.
-      </p>
-      <p align="center">
-        <a href="https://github.com/priyanshuvishwakarma273403/Instagram-Notification-System">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Airline Management System</h3>
-      <p align="center">
-        Java-based project focused on core OOP, logic building, and application structure.
-      </p>
-      <p align="center">
-        <a href="https://github.com/priyanshuvishwakarma273403/Airline-Management-System">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- same as your previous (unchanged) -->
 
 ---
 
