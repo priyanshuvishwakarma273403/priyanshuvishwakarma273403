@@ -12,7 +12,8 @@ I'm continuously working on real-world projects, exploring modern software engin
 
 ## Open Source
 
-| Project | Role | Link |
+|    Project     |     Role    |                                         Link |
 |---|---|---|
-| Vault-Web | Contributor | [repo](https://github.com/Vault-Web/vault-web) |
+| Vault-Web      | Contributor | [repo](https://github.com/Vault-Web/vault-web) |
+| Dsa-Collective | Contributor | [repo](https://github.com/dsa-collective) |
 | The Algorithms | Contributor | [repo](https://github.com/TheAlgorithms/Java) |
