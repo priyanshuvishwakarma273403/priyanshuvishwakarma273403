@@ -14,6 +14,6 @@ I'm continuously working on real-world projects, exploring modern software engin
 
 |    Project     |     Role    |                                         Link |
 |---|---|---|
+| Dsa-Collective | Maintainer  | [repo](https://github.com/dsa-collective) |
 | Vault-Web      | Contributor | [repo](https://github.com/Vault-Web/vault-web) |
-| Dsa-Collective | Contributor | [repo](https://github.com/dsa-collective) |
 | The Algorithms | Contributor | [repo](https://github.com/TheAlgorithms/Java) |
