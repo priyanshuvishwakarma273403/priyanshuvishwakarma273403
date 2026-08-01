@@ -15,5 +15,6 @@ I'm continuously working on real-world projects, exploring modern software engin
 |    Project     |     Role    |                                         Link |
 |---|---|---|
 | Dsa-Collective | Maintainer  | [repo](https://github.com/dsa-collective) |
+| Wealthdock     | Maintainer  | [repo](https://github.com/wealthdock) |
 | Vault-Web      | Contributor | [repo](https://github.com/Vault-Web/vault-web) |
 | The Algorithms | Contributor | [repo](https://github.com/TheAlgorithms/Java) |
