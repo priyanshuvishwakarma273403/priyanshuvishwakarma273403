@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## Bio
-
 I'm Priyanshu Vishwakarma, a software engineer and open source contributor focused on backend development, Generative AI, and problem solving.
 
 I've built multiple backend applications and full-stack projects, focusing on scalable architectures and clean code. I also work with modern AI technologies, including LLMs, RAG, Vector Databases, LangChain, LlamaIndex, and LangGraph to build AI-powered applications.
