@@ -8,5 +8,5 @@ I actively contribute to open source projects on GitHub, and I've solved DSA pro
 
 I'm continuously working on real-world projects, exploring modern software engineering practices, and growing as a backend & AI developer.
 
-**Kyvora:** [Kyvora](https://kyvora-frontend-sand.vercel.app/)
-**FoodIQ:** [FoodIQ](https://delivery-app-one-psi.vercel.app/)
+**for more detail:** [Portfolio](https://priaynshu-portfolio.co.in/)
+
