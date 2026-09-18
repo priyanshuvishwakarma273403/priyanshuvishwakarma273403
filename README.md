@@ -8,5 +8,5 @@ I actively contribute to open source projects on GitHub, and I've solved DSA pro
 
 I'm continuously working on real-world projects, exploring modern software engineering practices, and growing as a backend & AI developer.
 
-**for more detail:** [Portfolio](https://priaynshu-portfolio.co.in/)
+**for more detail:** [Portfolio](https://priyanshu-portfolio.co.in/)
 
