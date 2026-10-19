@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 I'm Priyanshu Vishwakarma, a software engineer and open source contributor focused on backend development, Generative AI, and problem solving.
 
